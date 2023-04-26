@@ -1,0 +1,9 @@
+// Change from default content-box to border-box model
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
