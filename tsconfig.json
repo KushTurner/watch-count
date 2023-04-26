@@ -20,8 +20,6 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": [
-    "tailwind.config.js",
-    "postcss.config.js",
     "vite.config.ts",
     ".eslintrc.cjs",
     "src"
